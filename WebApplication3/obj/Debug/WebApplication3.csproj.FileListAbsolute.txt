@@ -1,0 +1,9 @@
+C:\Users\atahi\source\repos\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+C:\Users\atahi\source\repos\WebApplication3\WebApplication3\bin\WebApplication3.dll
+C:\Users\atahi\source\repos\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+C:\Users\atahi\source\repos\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\atahi\source\repos\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\atahi\source\repos\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\atahi\source\repos\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+C:\Users\atahi\source\repos\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+C:\Users\atahi\source\repos\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
